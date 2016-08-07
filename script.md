@@ -8,7 +8,7 @@ Let's start with the outline.
 
 First, we will talk about Continuous Integration. What it is and what it isn't.
 
-Second, we will take a close look at Check-In/Check-Out cycle.
+Second, we will take a close look at Check-Out/Check-In cycle.
 
 Then, we will take a look into the training Kata with restrictions.
 
