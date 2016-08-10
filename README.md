@@ -151,6 +151,13 @@ GGBRB      GGBRB      GGBRB      GGBRB      GGBRB  ->  GGBRB
 
 
 
+## Bottom Line
+
+- Continuous Integration and Build Server are not same
+- Integrating on every Red-Green-Refactor cycle
+- How to train to integrate very often
+
+
 
 ## Thanks
 

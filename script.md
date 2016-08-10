@@ -92,3 +92,16 @@ Let's take a look at the example:
   - and gems on the top of empty cells get moved down
 
 That is it with the example. Shall we begin with live coding?
+
+
+## Bottomline
+
+Today we have learned that Continuous Integration and Build Servers are not the same thing.
+
+Additionally we learned that length of TDD Red-Green-Refactor cycle might be just perfect fit for Check-Out/Check-In cycle.
+
+Finally we have taken a look into the TDD Kata restriction, that allows us to train Continuous Integration skills.
+
+From demo, it was clearly seen that the restriction punishes us every time we do too big step and it forces us to find smaller incremental steps instead.
+
+That is it for today. Thank you for watching. Until next time!
